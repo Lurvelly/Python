@@ -12,3 +12,4 @@ Next_Attack = (eval(Cur_Weapon)+3400+5*(eval(Cur_Force)+eval(Add_Force)))* (eval
 Increased =100 *(Next_Attack - Cur_Attack)/Cur_Attack
 print("Increased:{:.2f}%".format(Increased))
 
+##test
